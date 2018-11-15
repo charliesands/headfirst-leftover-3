@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Headfirst.Csharp.Leftover3._2
 {
-    class Guy
+    public class Guy
     {
         private readonly string name;
 

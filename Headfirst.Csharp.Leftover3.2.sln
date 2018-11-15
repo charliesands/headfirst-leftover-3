@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headfirst.Csharp.Leftover3.2", "Headfirst.Csharp.Leftover3.2\Headfirst.Csharp.Leftover3.2.csproj", "{01F0006E-5AF9-4E48-92C8-C22CF396C510}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProgram", "MyProgram\MyProgram.csproj", "{55CB0FF4-DB9B-4117-BEAE-DA09727ADA9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{01F0006E-5AF9-4E48-92C8-C22CF396C510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01F0006E-5AF9-4E48-92C8-C22CF396C510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01F0006E-5AF9-4E48-92C8-C22CF396C510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CB0FF4-DB9B-4117-BEAE-DA09727ADA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CB0FF4-DB9B-4117-BEAE-DA09727ADA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CB0FF4-DB9B-4117-BEAE-DA09727ADA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CB0FF4-DB9B-4117-BEAE-DA09727ADA9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
