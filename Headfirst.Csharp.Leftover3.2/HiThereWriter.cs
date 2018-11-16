@@ -7,12 +7,11 @@ using System.Threading.Tasks;
 namespace Headfirst.Csharp.Leftover3._2
 {
     using System.Windows.Forms;
-
-    public static class HiThereWriter
-    {
-        public static void HiThere(string name)
-        {
-            MessageBox.Show("Hi there! My name is " + name);
-        }
-    }
+        public static class HiThereWriter
+            {
+            public static void HiThere(string name)
+                {
+                MessageBox.Show("Hi there! My name is " + name);
+                }
+            }
 }
